@@ -1,0 +1,23 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-native": "^0.56.0",
+    "react-native-awesome-button": "^1.8.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-vector-icons": "^5.0.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@expo/vector-icons": "^6.3.1"
+  }
+}
